@@ -1,0 +1,15 @@
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\bin\Debug\Rezervasyon.UI.WinForm.exe.config
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\bin\Debug\Rezervasyon.UI.WinForm.exe
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\bin\Debug\Rezervasyon.UI.WinForm.pdb
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\bin\Debug\Rezervasyon.BLL.dll
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\bin\Debug\Rezervasyon.DAL.dll
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\bin\Debug\Rezervasyon.BLL.pdb
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\bin\Debug\Rezervasyon.DAL.pdb
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\obj\Debug\Rezervasyon.UI.WinForm.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\obj\Debug\Rezervasyon.UI.WinForm.Form1.resources
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\obj\Debug\Rezervasyon.UI.WinForm.Properties.Resources.resources
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\obj\Debug\Rezervasyon.UI.WinForm.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\obj\Debug\Rezervasyon.UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\obj\Debug\Rezervasyon.UI.WinForm.csproj.CopyComplete
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\obj\Debug\Rezervasyon.UI.WinForm.exe
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.UI.WinForm\obj\Debug\Rezervasyon.UI.WinForm.pdb

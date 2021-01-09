@@ -1,0 +1,9 @@
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.BLL\bin\Debug\Rezervasyon.BLL.dll
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.BLL\bin\Debug\Rezervasyon.BLL.pdb
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.BLL\bin\Debug\Rezervasyon.DAL.dll
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.BLL\bin\Debug\Rezervasyon.DAL.pdb
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.BLL\obj\Debug\Rezervasyon.BLL.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.BLL\obj\Debug\Rezervasyon.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.BLL\obj\Debug\Rezervasyon.BLL.csproj.CopyComplete
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.BLL\obj\Debug\Rezervasyon.BLL.dll
+C:\Users\Furkan\source\repos\BiletRezervasyon\Rezervasyon.BLL\obj\Debug\Rezervasyon.BLL.pdb
